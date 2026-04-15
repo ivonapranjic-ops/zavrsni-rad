@@ -2,7 +2,14 @@
 Završni rad na preddiplomskom studiju pod nazivom Rapoznavanje bijelih krvnih stanica korištenjem sintetički generiranih podataka, mentor: prof. dr. sc. Irena Galić, sumentor: dr. sc. Marin Benčević
 
 ## Opis projekta
-Zadatak ovog završnog rada jest istražiti i opisati trenutno stanje u području analize mikroskopskih slika krvnih stanica, s naglaskom na metode klasifikacije bijelih krvnih stanica. Potrebno je prilagoditi postojeći algoritam za sintetičko generiranje različitih tipova bijelih krvnih stanica kako bi se stvorili slikovni skupovi uz zadane parametre. Zatim treba koristiti te skupove za treniranje postojeće arhitekture neuronske mreže za klasifikaciju tipa bijele krvne stanice. Na kraju, istražiti utjecaj parametara generiranja slika na rezultate klasifikacije stvarnih mikroskopskih slika.
+Klasifikacija bijelih krvnih stanica korištenjem sintetički generiranih podataka uspješno je
+provedena i analizirana u radu. Glavni cilj zadatka bio je uvidjeti koliko su sintetički podaci dobri
+u problemima koji uključuju klasifikaciju ljudskih stanica. Kroz teorijsku i tehničku pozadinu
+problema dan je uvid u područje koje povezuje računalne i medicinske grane znanosti. U
+praktičnom dijelu korištena je konvolucijska neuronska mreža u kombinaciji s metodom
+prijenosnog učenja korištenjem popularne neuronske mreže MobileNetV2. Provedenim
+eksperimentom i analizom donešeni su zaključci, kao i sugestije za buduće istraživanje u
+navedenom području. 
 
 ## Korištene tehnologije 
 - Python
